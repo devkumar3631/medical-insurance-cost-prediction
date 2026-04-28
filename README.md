@@ -23,7 +23,7 @@ The goal is to:
 -  Data preprocessing & feature engineering
 -  Encoding categorical variables
 -  Model training using regression algorithms
--  Model evaluation (R², MAE, RMSE)
+-  Model evaluation (R²)
 -  Insurance cost prediction system
 
 ---
@@ -56,8 +56,6 @@ The goal is to:
 
 - Linear Regression
 - Decision Tree Regressor
-- Random Forest Regressor (if used)
-- Other models (if applicable)
 
 ---
 
@@ -78,11 +76,7 @@ The goal is to:
 
 | Metric | Value |
 |-------|------|
-| R² Score | XX |
-| MAE | XX |
-| RMSE | XX |
-
-> *(Update these values based on your actual results)*
+| R² Score | 0.751505643411174 |
 
 ---
 
